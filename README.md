@@ -44,7 +44,7 @@ L’analisi è stata realizzata utilizzando Python per l’elaborazione dei dati
 ---
 
 ## 📂 File del progetto
-- `notebook.ipynb` → analisi completa in Python
+- `Sales-store.ipynb` → analisi completa in Python
 - `sales_analysis.xlsx` → dashboard Excel con pivot e grafici
 
 ---
